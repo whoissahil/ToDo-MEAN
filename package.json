@@ -1,0 +1,26 @@
+{
+  "name": "todo-mean",
+  "version": "1.0.0",
+  "description": "Simple ToDo app using MEAN stack.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whoissahil/ToDo-MEAN.git"
+  },
+  "keywords": [
+    "MEAN",
+    "MongoDB",
+    "ExpressJS",
+    "Angular.JS",
+    "Node.js"
+  ],
+  "author": "Sahil Sharma <me@iamsahilsharma.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/whoissahil/ToDo-MEAN/issues"
+  },
+  "homepage": "https://github.com/whoissahil/ToDo-MEAN#readme"
+}
