@@ -22,5 +22,11 @@
   "bugs": {
     "url": "https://github.com/whoissahil/ToDo-MEAN/issues"
   },
-  "homepage": "https://github.com/whoissahil/ToDo-MEAN#readme"
+  "homepage": "https://github.com/whoissahil/ToDo-MEAN#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^2.6.2",
+    "express": "^4.17.1",
+    "mongojs": "^2.6.0"
+  }
 }
